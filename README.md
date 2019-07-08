@@ -22,7 +22,7 @@ root 密码使用 md5旧版本模式
 
 ### 数据库schema
 ```
-/db/bpm_db.sql
+/db/bpm_db.sql  panhuij
 
 ```
 
